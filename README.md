@@ -14,11 +14,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aankana&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aankana&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏅 Badges & Achievements
-<p align="left">
-  <img src="https://github-profile-utils.herokuapp.com/github-achievement?achievement=yolo&size=64" width="60" alt="YOLO" />
-  <img src="https://github-profile-utils.herokuapp.com/github-achievement?achievement=pull-shark&size=64" width="60" alt="Pull Shark" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aankana&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
