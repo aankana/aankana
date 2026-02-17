@@ -1,5 +1,4 @@
 ## Hi there 👋
--
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Developing a standalone operating system from scratch with my team, focusing on low-level kernel development and system architecture.<br><br>👯 I’m looking to collaborate on<br>Innovative Machine Learning projects, particularly those involving computer vision, neural networks, or AI-driven creative tools.<br><br>🤝 I’m looking for help with<br>Design needs for various projects—whether it's Graphic Design or visual identity for new tech ventures.<br><br>🌱 I’m currently learning<br>The intricacies of Machine Learning and deep learning frameworks, alongside exploring the vast landscape of Cyber Security.<br><br>💬 Ask me about<br>Design: From graphic creation to aesthetic theory.<br><br>The World: Perspectives on global trends, philosophy, and how they intersect with technology.<br><br>CS Fundamentals: Data structures & algorithms, and my journey as a BTech CSE student.<br><br>⚡ Fun fact<br>I often view the world through a camera lens; I'm a photographer who finds the most beauty in moody, black-and-white, and artistic compositions.
