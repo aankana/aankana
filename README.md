@@ -14,18 +14,15 @@ I am a 2nd year BTech Computer Science student with a deep interest in Machine L
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 <br>
-  <a align='center' href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aankana&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
   
 **Talking about Personal Stuffs:**
 <ul>
-  <li>- 🔭 I’m currently working on a <b>Standalone Operating System</b> from scratch with my team.</li>
-  <li>- 🌱 I’m currently learning <b>Machine Learning</b> and <b>Cyber Security</b>.</li>
-  <li>- 👯 I’m looking to collaborate on <b>ML projects</b> (Computer Vision & Neural Networks).</li>
-  <li>- 🤝 I’m looking for help with <b>Design needs</b> for tech ventures.</li>
-  <li>- 💬 Ask me about <b>Tech, Design and the World</b>.</li>
-  <li>- ⚡ Fun fact: I'm a photographer who loves moody, black-and-white compositions.</li>
+  <li> 🔭 I’m currently working on a <b>Standalone Operating System</b> from scratch with my team.</li>
+  <li> 🌱 I’m currently learning <b>Machine Learning</b> and <b>Cyber Security</b>.</li>
+  <li> 👯 I’m looking to collaborate on <b>ML projects</b> (Computer Vision & Neural Networks).</li>
+  <li> 🤝 I’m looking for help with <b>Design needs</b> for tech ventures.</li>
+  <li> 💬 Ask me about <b>Tech, Design and the World</b>.</li>
+  <li> ⚡ Fun fact: I'm a photographer who loves moody, black-and-white compositions.</li>
 </ul>
 
 <h2 align="left">🌻 A little more about me :p</h2>
@@ -87,7 +84,7 @@ const Ankana = {
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=aankana&limit=5&theme=gotham&combine_all_yearly_contributions=true&hide_border=true" width="100%" />
 
-### 🚀 My contributions! Wait...Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+### 🚀 My contributions! Wait...Whose snake <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> is this!? 😭
 <p align="center">
   <img src="https://raw.githubusercontent.com/aankana/aankana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
