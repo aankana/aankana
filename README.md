@@ -79,7 +79,7 @@ const Ankana = {
 
 <p align="center">
   <a href="#gh-dark-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aankana&theme=github_dark&hide_border=true" width="64%" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aankana&theme=neon&hide_border=true" width="64%" alt="Profile Details"/>
   </a>
 </p>
 
