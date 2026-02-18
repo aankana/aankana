@@ -28,7 +28,8 @@ I am a 2nd year BTech Computer Science student with a deep interest in Machine L
   <li>- ⚡ Fun fact: I'm a photographer who loves moody, black-and-white compositions.</li>
 </ul>
 
-#### A little more about me
+<h2 align="left">🌻 A little more about me :p</h2>
+
 ```javascript
 const Ankana = {
   pronouns: "She" | "Her",
@@ -63,33 +64,30 @@ const Ankana = {
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="25px"/>
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <a href="https://github.com/aankana?tab=repositories#gh-dark-mode-only">
-  </a>
-  
-  <br/>
-  <a href="https://github.com/aankana?tab=stars#gh-dark-mode-only">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=neon&hide_border=true" width="48%" alt="Ankana's Streak"/>
-  </a>
-  <a href="https://github.com/aankana?tab=stars#gh-light-mode-only">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=transparent&hide_border=true" width="48%" alt="Ankana's Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="#gh-dark-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aankana&theme=neon&hide_border=true" width="64%" alt="Profile Details"/>
-  </a>
-</p>
-
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=aankana&limit=5&theme=neon&combine_all_yearly_contributions=true" width="100%" />
+# 📊 GitHub Stats:
+<p align="center">
+  <a href="https://github.com/aankana?tab=stars#gh-dark-mode-only">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=gotham&hide_border=true" width="49%" alt="Ankana's Streak"/>
+  </a>
+  <a href="https://github.com/aankana?tab=stars#gh-light-mode-only">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=transparent&hide_border=true" width="49%" alt="Ankana's Streak"/>
+  </a>
+  <a href="https://github.com/aankana?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aankana&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@aankana's github-readme-stats"/>
+  </a>
+  
+  <a href="#gh-dark-mode-only">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aankana&theme=gotham&hide_border=true" width="100%" alt="Profile Details"/>
+  </a>
+</p>
 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=aankana&limit=5&theme=gotham&combine_all_yearly_contributions=true&hide_border=true" width="100%" />
+
+### 🚀 My contributions! Wait...Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 <p align="center">
   <img src="https://raw.githubusercontent.com/aankana/aankana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
