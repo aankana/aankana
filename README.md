@@ -39,6 +39,7 @@ const Ankana = {
       productivity: ["Notion", "GitHub"]
   }
 }
+```
 
 # 🛠️ Technologies and Tools I use:
 <p>
