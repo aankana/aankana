@@ -90,6 +90,8 @@ const Ankana = {
 <img src="https://github-contributor-stats.vercel.app/api?username=aankana&limit=5&theme=neon&combine_all_yearly_contributions=true" width="100%" />
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aankana/aankana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
 
 ---
