@@ -1,14 +1,16 @@
-<h2 align="center">Hi, I'm Ankana Debnath 👋</h2>
+<h1 align="left">Hi, I'm Ankana Debnath 👋</h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+2nd+year+BTech+CSE+Student;Interested+in+ML+and+Cyber+Security;" /></a>
+  <a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+2nd+year+BTech+CSE+Student;Interested+in+ML,+Cyber+Security+and+Design!;" /></a>
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
+<img align="middle" alt="IMG" src="https://wallpaperswide.com/download/inhabited_planet_art-wallpaper-2880x1200.jpg" />
 </p>
 <p>
 I am a 2nd year BTech Computer Science student with a deep interest in Machine Learning and Cyber Security. I'm a self-motivated developer currently focusing on low-level systems and AI-driven creative tools, while balancing my passion for digital design and photography.
 </p>
+
+
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 <br>
@@ -18,11 +20,11 @@ I am a 2nd year BTech Computer Science student with a deep interest in Machine L
   
 **Talking about Personal Stuffs:**
 <ul>
-  <li>- 🔭 I’m currently working on a **Standalone Operating System** from scratch.</li>
-  <li>- 🌱 I’m currently learning **Machine Learning** and **Cyber Security**.</li>
-  <li>- 👯 I’m looking to collaborate on **ML projects** (Computer Vision & Neural Networks).</li>
-  <li>- 🤝 I’m looking for help with **Design needs** for tech ventures.</li>
-  <li>- 💬 Ask me about **Design and the World**.</li>
+  <li>- 🔭 I’m currently working on a <b>Standalone Operating System</b> from scratch with my team.</li>
+  <li>- 🌱 I’m currently learning <b>Machine Learning</b> and <b>Cyber Security</b>.</li>
+  <li>- 👯 I’m looking to collaborate on <b>ML projects</b> (Computer Vision & Neural Networks).</li>
+  <li>- 🤝 I’m looking for help with <b>Design needs</b> for tech ventures.</li>
+  <li>- 💬 Ask me about <b>Tech, Design and the World</b>.</li>
   <li>- ⚡ Fun fact: I'm a photographer who loves moody, black-and-white compositions.</li>
 </ul>
 
@@ -42,6 +44,11 @@ const Ankana = {
 ```
 
 # 🛠️ Technologies and Tools I use:
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
 <p>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
@@ -57,20 +64,32 @@ const Ankana = {
 </p>
 
 # 📊 GitHub Stats:
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daankana%26theme%3Dneon%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" width="100%" />
+<p align="center">
+  <a href="https://github.com/aankana?tab=repositories#gh-dark-mode-only">
+  </a>
+  
+  <br/>
+  <a href="https://github.com/aankana?tab=stars#gh-dark-mode-only">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=neon&hide_border=true" width="48%" alt="Ankana's Streak"/>
+  </a>
+  <a href="https://github.com/aankana?tab=stars#gh-light-mode-only">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=transparent&hide_border=true" width="48%" alt="Ankana's Streak"/>
+  </a>
+</p>
 
-
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=aankana&theme=neon&hide_border=false" width="100%" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Daankana%26theme%3Dneon%26hide_border%3Dfalse%26layout%3Dcompact" width="100%" />
+<p align="center">
+  <a href="#gh-dark-mode-only">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aankana&theme=github_dark&hide_border=true" width="64%" alt="Profile Details"/>
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=aankana&limit=5&theme=neon&combine_all_yearly_contributions=true" width="100%" />
+
+### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
