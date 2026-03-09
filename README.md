@@ -48,6 +48,7 @@ const Ankana = {
 
 </p>
 <p>
+<img alt="Core Maintainer Aether" src="https://img.shields.io/badge/Aether_Infra-Core_Maintainer-2d1e2f?style=for-the-badge&logo=gnubash&logoColor=white" height="25px" />
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
