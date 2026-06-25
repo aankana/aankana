@@ -31,7 +31,7 @@ I am a 2nd year BTech Computer Science student with a deep interest in Machine L
 const Ankana = {
   pronouns: "She" | "Her",
   status: "2nd Year BTech CSE Student",
-  code: ["Python", "Java", "C", "HTML", "CSS"],
+  code: ["Python", "C++", "Java", "C", "HTML", "CSS"],
   interests: ["Machine Learning", "Cyber Security", "Graphic Design"],
   tools: {
       design: ["Figma", "Canva", "Affinity Designer"],
